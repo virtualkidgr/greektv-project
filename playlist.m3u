@@ -1,1 +1,36 @@
+#EXTM3U
 
+# ===== ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ =====
+
+#EXTINF:-1 tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="ΒΑΣΙΚΑ", Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΒΑΣΙΚΑ", ANT1
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+
+#EXTINF:-1 tvg-name="Makedonia TV" tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="ΒΑΣΙΚΑ", Makedonia TV
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+
+#EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΒΑΣΙΚΑ", Mega Channel
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
+
+#EXTINF:-1 tvg-name="OPEN TV" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΒΑΣΙΚΑ", Open TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SKAI" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΒΑΣΙΚΑ", Skai TV
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR" tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="ΒΑΣΙΚΑ", Star Channel
+https://livestar.siliconweb.com/media/star4/star4.m3u8
+
+#EXTINF:-1 tvg-name="ERT Kids" tvg-logo="https://i.imgur.com/RvrQSAs.png" group-title="ΒΑΣΙΚΑ", ERT Kids
+https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="ΒΑΣΙΚΑ", Vouli TV
+https://tilevoulivod.akamaized.net/hls/live/2020080/tilevouli/index.m3u8
+
+#EXTINF:-1 tvg-name="Zougla TV" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="ΒΑΣΙΚΑ", Zougla TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ecclesia TV" tvg-logo="https://i.imgur.com/nxoHQqz.png" group-title="ΒΑΣΙΚΑ", Ecclesia TV
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8

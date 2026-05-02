@@ -1,4 +1,6 @@
-# ===== ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ =====
+#EXTM3U
+
+#EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ
 
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΒΑΣΙΚΑ", ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8

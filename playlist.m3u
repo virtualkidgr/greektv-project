@@ -2,8 +2,8 @@
 
 # ===== ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ =====
 
-#EXTINF:100 group-title="ΒΑΣΙΚΑ" tvg-name="Alpha Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png",ALPHA 
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:100 group-title="ΒΑΣΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
+https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΒΑΣΙΚΑ", ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
@@ -35,16 +35,14 @@ https://zouglalive.gr/zougla.m3u8
 #EXTINF:-1 tvg-name="Ecclesia TV" tvg-logo="https://i.imgur.com/nxoHQqz.png" group-title="ΒΑΣΙΚΑ", Ecclesia TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 
-#EXTINF:9 group-title="ΒΑΣΙΚΑ" tvg-name="ert1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1200px-ERT1_logo_2020.svg.png",ERT1 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
+#EXTINF:9001 group-title="ΒΑΣΙΚΑ" tvg-name="ERT1" tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/playlist.m3u8
 
-#EXTINF:49 group-title="ΒΑΣΙΚΑ" tvg-name="ert2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1200px-ERT2_logo_2020.svg.png",ERT2 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
+#EXTINF:9002 group-title="ΒΑΣΙΚΑ" tvg-name="ERT2" tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/playlist.m3u8
 
-#EXTINF:10 group-title="ΒΑΣΙΚΑ" tvg-name="ert3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1200px-ERT3_logo_2020.svg.png",ERT3 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+#EXTINF:9003 group-title="ΒΑΣΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΒΑΣΙΚΑ" tvg-name="ertnews"tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-
-#EXTINF:24 group-title="ΒΑΣΙΚΑ" tvg-name="eptsports" tvg-logo="https://upload.wikimedia.org/wikipedia/el/2/25/Ertsports1.png",ERT SPORTS 1
+#EXTINF:9004 group-title="ΒΑΣΙΚΑ" tvg-name="ertnews" tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
+https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8

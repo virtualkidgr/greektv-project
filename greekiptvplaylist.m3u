@@ -39,13 +39,12 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 https://tilevoulivod.akamaized.net/hls/live/2020080/tilevouli/index.m3u8
 
 #EXTINF:-1 tvg-name="Zougla TV" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="ΒΑΣΙΚΑ", Zougla TV
-#EXTVLCOPT:http-referrer=https://www.zougla.gr/
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+https://zouglalive.gr/zougla.m3u8
 
 #EXTINF:-1 tvg-name="Ecclesia TV" tvg-logo="https://i.imgur.com/nxoHQqz.png" group-title="ΒΑΣΙΚΑ", Ecclesia TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 
 #EXTGRP:ΚΑΝΑΛΙΑ ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 
-#EXTINF:-1 tvg-name="Star Central Greece" tvg-logo="https://i.imgur.com/BTUEvxg.png" tvg-id="digitalstar.gr" tvg-chno="72" tvg-country="GR" group-title="ΚΑΝΑΛΙΑ ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ",Star Central Greece
+#EXTINF:-1 tvg-name="Star Central Greece" tvg-logo="https://i.imgur.com/BTUEvxg.png" group-title="ΚΑΝΑΛΙΑ ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ", Star Central Greece
 https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash

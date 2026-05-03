@@ -5,14 +5,14 @@
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΒΑΣΙΚΑ", ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
-#EXTINF:-1 tvg-name="STAR" tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="ΒΑΣΙΚΑ", Star Channel
+#EXTINF:-1 group-title="ΒΑΣΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR Channel
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 
 #EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΒΑΣΙΚΑ", Mega Channel
 https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 
-#EXTINF:-1 tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="ΒΑΣΙΚΑ", Alpha TV
-https://alphatvlive.siliconweb.com/alphatvlive/alphatvlive/playlist.m3u8
+#EXTINF:-1 group-title="ΒΑΣΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA 
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SKAI" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΒΑΣΙΚΑ", Skai TV
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8

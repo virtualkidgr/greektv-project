@@ -11,7 +11,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΒΑΣΙΚΑ", Mega Channel
 https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 
-#EXTINF:-1 group-title="ΒΑΣΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA 
+#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png", ALPHA 
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SKAI" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΒΑΣΙΚΑ", Skai TV

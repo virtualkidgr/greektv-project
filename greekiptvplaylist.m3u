@@ -52,3 +52,103 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-name="ENA TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ", ENA TV
 https://webtv.ena-channel.gr/hls/live.m3u8
 
+#EXTGRP:ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ
+
+#EXTINF:-1 tvg-name="Alert TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", Alert TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ART TV" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", ART TV
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Attica TV" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", Attica TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.imgur.com/24uaLwh.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", Channel 9
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1 tvg-name="High TV" tvg-logo="https://i.imgur.com/YVjJFW2.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kontra Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kontra_%28gr%29_%282021-01-21%29.svg/512px-Kontra_%28gr%29_%282021-01-21%29.svg.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ", Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ
+
+#EXTINF:-1 tvg-name="4E TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ", 4E TV
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TV100_LOGO.jpg/512px-TV100_LOGO.jpg" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ", TV 100
+https://live.fm100.gr/hls/tv100/index.m3u8
+
+#EXTINF:-1 tvg-name="Pella TV" tvg-logo="https://i.imgur.com/9YFieqB.jpg" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ", Pella TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+
+#EXTINF:-1 tvg-name="Diavata TV" tvg-logo="https://i.imgur.com/MaAys0D.png" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ", Diavata TV
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xalastra TV" tvg-logo="https://i.imgur.com/LgQBtTh.jpg" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ", Xalastra TV
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ
+
+#EXTINF:-1 tvg-name="Alfa Dramas" tvg-logo="https://i.imgur.com/39l3uRU.jpg" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ", Alfa Dramas
+https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ena Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Ena_Channel_Kavala_logo.png" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ", Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+
+#EXTINF:-1 tvg-name="Thraki NET" tvg-logo="https://i.imgur.com/zkTohBm.png" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ", Thraki NET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Εγνατία Τηλεόραση" tvg-logo="https://i.imgur.com/XQyysct.jpg" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ", Εγνατία Τηλεόραση
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ
+
+#EXTINF:-1 tvg-name="Acheloos TV" tvg-logo="https://i.imgur.com/QjQxeAe.png" group-title="ΚΑΝΑΛΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ", Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Corfu TV" tvg-logo="https://i.imgur.com/G7LHkTE.jpg" group-title="ΚΑΝΑΛΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ", Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Epirus TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Epirus_TV1_logo.png" group-title="ΚΑΝΑΛΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ", Epirus TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ionian Channel" tvg-logo="https://i.imgur.com/fnPah3r.png" group-title="ΚΑΝΑΛΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ", Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ
+
+#EXTINF:-1 tvg-name="Best TV" tvg-logo="https://i.imgur.com/FRDzxjD.png" group-title="ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ", Best TV
+https://stream.net7.gr/hls/best/index.m3u8
+
+#EXTINF:-1 tvg-name="Mesogeios TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ", Mesogeios TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+
+#EXTINF:-1 tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ", PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ
+
+#EXTINF:-1 tvg-name="Aigaio TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ", Aigaio TV
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/aigaiotv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Irida TV" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ", Irida TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Samiaki TV" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ", Samiaki TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+
+#EXTGRP:ΚΑΝΑΛΙΑ ΚΡΗΤΗΣ
+
+#EXTINF:-1 tvg-name="Creta TV" tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="ΚΑΝΑΛΙΑ ΚΡΗΤΗΣ", Creta TV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Κρήτη TV" tvg-logo="https://i.imgur.com/Xm4905x.png" group-title="ΚΑΝΑΛΙΑ ΚΡΗΤΗΣ", Κρήτη TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nea TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΚΡΗΤΗΣ", Nea TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+
+
